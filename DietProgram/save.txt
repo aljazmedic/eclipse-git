@@ -1,0 +1,3 @@
+newFood{ piscanec;prot 8.0;carb 5.0;chol 1.0;sod 4.0;fibre 7.0;sugar 5.0;vC 4.0;calc 5.0;iron 4.0;}
+newFood{ dfg%20dfg;prot 34.0;carb 34.0;fat 43.0;sfat 34.0;chol 34.0;sod 34.0;fibre 34.0;sugar 34.0;vA 43.0;vC 34.0;calc 43.0;iron 43.0;}
+newFood{ sfdg;prot 34.0;carb 34.0;fat 34.0;sfat 43.0;chol 43.0;sod 43.0;fibre 43.0;sugar 43.0;vA 43.0;vC 34.0;calc 34.0;iron 34.0;}

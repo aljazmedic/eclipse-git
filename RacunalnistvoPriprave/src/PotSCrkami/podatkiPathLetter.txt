@@ -1,0 +1,8 @@
+G S
+- mimo O nadaljujemo skozi tri križišèa, dokler ne pridemo do A
+- pri B zavijemo desno, dokler ne dospemo do S
+- iz A zavijemo v krožno križišèe, od tam nadaljujemo naravnost do D
+- na H zavijemo desno proti O
+- od D sledimo modrim oznakam, dokler ne zagledamo B
+- nato pri J peljemo naprej 1,2 km proti H
+- iz G zavijemo levo proti J
